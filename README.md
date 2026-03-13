@@ -1,4 +1,4 @@
-# Heart Attack Risk Prediction API
+<img width="1074" height="870" alt="image" src="https://github.com/user-attachments/assets/3984b103-5d5a-416a-b0dc-94fcb5a9ab94" /># Heart Attack Risk Prediction API
 
 ## Описание проекта
 
@@ -117,7 +117,8 @@ http://127.0.0.1:8000/docs
 
 ## Пример работы API
 
-(screenshots\api_example.png)
+(<img width="1074" height="870" alt="image" src="https://github.com/user-attachments/assets/8f9c92d0-e360-42d9-a13d-41f7147a5704" />
+
 
 ---
 
