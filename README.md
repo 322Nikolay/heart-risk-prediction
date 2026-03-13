@@ -117,7 +117,7 @@ http://127.0.0.1:8000/docs
 
 ## Пример работы API
 
-![API example](![alt text](screenshots\api_example.png)
+(![alt text](screenshots\api_example.png)
 
 ---
 
